@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 Push Messaging and Notification Sample
 ===
 
-Learn more at https://www.chromestatus.com/feature/5416033485586432 and https://www.chromestatus.com/feature/5480344312610816
 
 To use this sample please do the following:
 
@@ -13,8 +12,3 @@ To use this sample please do the following:
 1. Replace `<Your Cloud Messaging API Key ...>` in your new `config.js` file with your own API key from your new project on Firebase Developer Console.
 4. Replace `<Your Cloud Sender ID ...>` in your new `manifest.json` with your own sender ID from the Firebase Developer Console project.
 
-# Related Samples
-  Push messaging and notifications are built on [service workers](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker). 
-=======
-# Push-Notification-Chrome
->>>>>>> b8fbe685a2ae6e5062c4c51fece5aaea45b93d22

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Push Messaging and Notification Sample
 ===
 
@@ -14,3 +15,6 @@ To use this sample please do the following:
 
 # Related Samples
   Push messaging and notifications are built on [service workers](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker). 
+=======
+# Push-Notification-Chrome
+>>>>>>> b8fbe685a2ae6e5062c4c51fece5aaea45b93d22
